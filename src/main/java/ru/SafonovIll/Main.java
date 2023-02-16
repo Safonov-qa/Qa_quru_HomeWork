@@ -2,6 +2,6 @@ package ru.SafonovIll;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("World World World world!");
+        System.out.println("QA QA QA!");
     }
 }
