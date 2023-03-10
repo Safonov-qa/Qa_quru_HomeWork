@@ -1,4 +1,4 @@
-package ru.SafonovIll;
+package ru.safonovIll;
 
 public class Main {
 
